@@ -1,0 +1,12 @@
+#images img {
+    height: 150px;
+    margin: 3px;
+}
+
+input {
+	padding: 5px;
+}
+
+button {
+	margin-top: 10px;
+}
